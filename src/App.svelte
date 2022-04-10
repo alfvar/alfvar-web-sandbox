@@ -1,6 +1,6 @@
 <main>
 	<h1>Under konstruktion!</h1>
-	<p>men <a href="https://svelte.dev/tutorial">hä</a> kan man hitta min musik :)</p>
+	<p>men <a href="https://svelte.dev/tutorial">här</a> kan man hitta min musik :)</p>
 </main>
 
 <style>
@@ -12,10 +12,7 @@
 	}
 
 	h1 {
-		color: #ff3e00;
-		text-transform: uppercase;
 		font-size: 4em;
-		font-weight: 100;
 	}
 
 	@media (min-width: 640px) {
