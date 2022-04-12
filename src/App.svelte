@@ -13,15 +13,24 @@
 		max-width: 240px;
 		margin: 0 auto;
 		background-color: none;
-
 	}
 
 	.header {
 		font-size: 8em;
 		margin: 0.01em;
 		padding: 0em;
+		border-style: dashed;
+		display: flex;
+		justify-content: center;
 	}
 
+	h2 {
+		border-style: dashed;
+	}
+
+	h3 {
+		border-style: dashed;
+	}
 	@media (min-width: 640px) {
 		main {
 			max-width: none;
