@@ -1,6 +1,11 @@
 <main>
-	<h1>Under konstruktion!</h1>
-	<p>men <a href="https://svelte.dev/tutorial">här</a> kan man hitta min musik :)</p>
+	<h1>Den argaste rubriken!</h1>
+	<h2>En lite snällare rubrik</h2>
+	<h3>En snäll rubrik</h3>
+
+	<p>
+		Brödtext och ett exempel på några ord på rad i en mening. Stilligt!
+	</p>
 </main>
 
 <style>
@@ -9,10 +14,6 @@
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
-	}
-
-	h1 {
-		font-size: 4em;
 	}
 
 	@media (min-width: 640px) {
